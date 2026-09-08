@@ -1,0 +1,25 @@
+# Node
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# NestJS
+dist/
+
+# Logs
+logs/
+*.log
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
